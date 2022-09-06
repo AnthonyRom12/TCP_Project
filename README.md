@@ -1,6 +1,7 @@
 # TCP_Project
 TCP server/client
 
-___For compilation:___ 
-server : gcc server.c erproc.c -W -Wall -Werror -std=c99 -o server
-clien : gcc client.c erproc.c -W -Wall -Werror -std=c99 -o client
+## For compilation: 
+___server :___ gcc server.c erproc.c -W -Wall -Werror -std=c99 -o server
+
+___clien :___ gcc client.c erproc.c -W -Wall -Werror -std=c99 -o client
