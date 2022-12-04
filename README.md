@@ -1,5 +1,5 @@
 # TCP_Project
-TCP server/client:
+*TCP server/client:*
 
 __*For compilation:*___ 
 
