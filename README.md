@@ -1,5 +1,5 @@
 # TCP_Project
-*TCP server/client:*
+*TCP server/client written on C:*
 
 __*For compilation:*___ 
 
